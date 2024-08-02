@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "01 - Spring Framework",
-      "path": "SpringBoot_Notes/01 - Spring Framework.md"
+      "basename": "03 - RESTful APIs and API Testing",
+      "path": "SpringBoot_Notes/03 - RESTful APIs and API Testing.md"
     },
     {
       "basename": "02 - Spring Boot and Annotations",
       "path": "SpringBoot_Notes/02 - Spring Boot and Annotations.md"
+    },
+    {
+      "basename": "02 - Spring Boot and Annotations",
+      "path": "02 - Spring Boot and Annotations.pdf"
     }
   ],
   "omittedPaths": []

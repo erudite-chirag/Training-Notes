@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3771ce638992ccf8",
+            "id": "7a5fb3caa5779e01",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SpringBoot_Notes/01 - Spring Framework.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "36129f1174fef54d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SpringBoot_Notes/02 - Spring Boot and Annotations.md",
+                "file": "SpringBoot_Notes/03 - RESTful APIs and API Testing.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SpringBoot_Notes/01 - Spring Framework.md",
+                "file": "SpringBoot_Notes/03 - RESTful APIs and API Testing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SpringBoot_Notes/01 - Spring Framework.md",
+                "file": "SpringBoot_Notes/03 - RESTful APIs and API Testing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,11 +133,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SpringBoot_Notes/01 - Spring Framework.md"
+                "file": "SpringBoot_Notes/03 - RESTful APIs and API Testing.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -169,17 +158,18 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "3771ce638992ccf8",
+  "active": "7a5fb3caa5779e01",
   "lastOpenFiles": [
-    "01 - Spring Framework.pdf",
+    "03 - RESTful APIs and API Testing.pdf",
     "SpringBoot_Notes/02 - Spring Boot and Annotations.md",
+    "SpringBoot_Notes/03 - RESTful APIs and API Testing.md",
+    "SpringBoot_Notes/attachments/Pasted image 20240712164716.png",
     "02 - Spring Boot and Annotations.pdf",
-    "SpringBoot_Notes/01 - Spring Framework.md",
+    "Welcome.md",
     "SpringBoot_Notes/attachments/Pasted image 20240802092901.png",
     "SpringBoot_Notes/attachments",
-    "SpringBoot_Notes/Pasted image 20240802092825.png",
-    "Pasted image 20240802092759.png",
-    "Welcome.md",
-    "SpringBoot_Notes"
+    "SpringBoot_Notes/01 - Spring Framework.md",
+    "SpringBoot_Notes",
+    "01 - Spring Framework.pdf"
   ]
 }
