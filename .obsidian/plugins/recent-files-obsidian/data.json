@@ -3,6 +3,10 @@
     {
       "basename": "01 - Spring Framework",
       "path": "SpringBoot_Notes/01 - Spring Framework.md"
+    },
+    {
+      "basename": "02 - Spring Boot and Annotations",
+      "path": "SpringBoot_Notes/02 - Spring Boot and Annotations.md"
     }
   ],
   "omittedPaths": []

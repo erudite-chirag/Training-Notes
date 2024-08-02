@@ -261,7 +261,7 @@ public class TennisCoach implements Coach {
 ```java 
 public interface Coach {  
     String getWorkout();  
-    public String sayHelloUsingObjectClass();  
+    public String sayHelloUsingGreetings();  
 }
 ```
 

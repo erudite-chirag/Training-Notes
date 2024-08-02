@@ -18,6 +18,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "36129f1174fef54d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SpringBoot_Notes/02 - Spring Boot and Annotations.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -160,11 +172,13 @@
   "active": "3771ce638992ccf8",
   "lastOpenFiles": [
     "01 - Spring Framework.pdf",
+    "SpringBoot_Notes/02 - Spring Boot and Annotations.md",
+    "02 - Spring Boot and Annotations.pdf",
+    "SpringBoot_Notes/01 - Spring Framework.md",
     "SpringBoot_Notes/attachments/Pasted image 20240802092901.png",
     "SpringBoot_Notes/attachments",
     "SpringBoot_Notes/Pasted image 20240802092825.png",
     "Pasted image 20240802092759.png",
-    "SpringBoot_Notes/01 - Spring Framework.md",
     "Welcome.md",
     "SpringBoot_Notes"
   ]
