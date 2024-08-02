@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7a5fb3caa5779e01",
+            "id": "3771ce638992ccf8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "SpringBoot_Notes/01 - Spring Framework.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "SpringBoot_Notes/01 - Spring Framework.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "SpringBoot_Notes/01 - Spring Framework.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md"
+                "file": "SpringBoot_Notes/01 - Spring Framework.md"
               }
             }
           }
@@ -158,8 +157,15 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "954015c9f130c840",
+  "active": "3771ce638992ccf8",
   "lastOpenFiles": [
-    "Welcome.md"
+    "01 - Spring Framework.pdf",
+    "SpringBoot_Notes/attachments/Pasted image 20240802092901.png",
+    "SpringBoot_Notes/attachments",
+    "SpringBoot_Notes/Pasted image 20240802092825.png",
+    "Pasted image 20240802092759.png",
+    "SpringBoot_Notes/01 - Spring Framework.md",
+    "Welcome.md",
+    "SpringBoot_Notes"
   ]
 }
