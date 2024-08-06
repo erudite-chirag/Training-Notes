@@ -5,6 +5,26 @@
       "path": "05 - Spring Security.md"
     },
     {
+      "basename": "04 - JPA and Database Interaction and JPQL",
+      "path": "SpringBoot_Notes/04 - JPA and Database Interaction and JPQL.md"
+    },
+    {
+      "basename": "04 - JPA and Database Interaction and JPQL",
+      "path": "04 - JPA and Database Interaction and JPQL.pdf"
+    },
+    {
+      "basename": "01 - Spring Framework",
+      "path": "SpringBoot_Notes/01 - Spring Framework.md"
+    },
+    {
+      "basename": "Pasted image 20240712164716",
+      "path": "SpringBoot_Notes/attachments/Pasted image 20240712164716.png"
+    },
+    {
+      "basename": "02 - Spring Boot and Annotations",
+      "path": "SpringBoot_Notes/02 - Spring Boot and Annotations.md"
+    },
+    {
       "basename": "03 - RESTful APIs and API Testing",
       "path": "03 - RESTful APIs and API Testing.pdf"
     },
@@ -17,8 +37,8 @@
       "path": "SpringBoot_Notes/01 - Spring Framework.md"
     },
     {
-      "basename": "02 - Spring Boot and Annotations",
-      "path": "SpringBoot_Notes/02 - Spring Boot and Annotations.md"
+      "basename": "Pasted image 20240802092901",
+      "path": "SpringBoot_Notes/attachments/Pasted image 20240802092901.png"
     },
     {
       "basename": "01 - Spring Framework",
