@@ -97,7 +97,7 @@ JWT tokens are useful for several reasons:
 @RequestMapping("/home")  
 public class HomeController {  
     @GetMapping()  
-    public String usersPage(){  
+    public String homePage(){  
         return "Welcome to the Dashboard!";  
     }  
 }
