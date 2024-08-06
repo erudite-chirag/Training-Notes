@@ -19,6 +19,7 @@
 - IOC Container
 - Hands-On
 - File Structure
+- Types of Dependency Injection
 
 
 ### What is Spring Framework
