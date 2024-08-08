@@ -1,3 +1,10 @@
+**Table of Contents**
+- [[#Agenda|Agenda]]
+	- [[#Agenda#Monolithic Architecture|Monolithic Architecture]]
+	- [[#Agenda#Microservices Architecture|Microservices Architecture]]
+	- [[#Agenda#Difference between Monolithic and Microservice Architecture|Difference between Monolithic and Microservice Architecture]]
+	- [[#Agenda#Hands-On|Hands-On]]
+		- [[#Hands-On#OpenFeign for Inter-service communication|OpenFeign for Inter-service communication]]
 
 ## Agenda
 - Monolithic Architecture
