@@ -8,115 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3771ce638992ccf8",
+            "id": "9a584550867479a1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SpringBoot_Notes/01 - Spring Framework.md",
+                "file": "SpringBoot_Notes/07 - Introduction to Microservices.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "aafd1c53122a548c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SpringBoot_Notes/02 - Spring Boot and Annotations.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1f024ed7eee4a9d5",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "02 - Spring Boot and Annotations.pdf"
-              }
-            }
-          },
-          {
-            "id": "3c4d90f0fd29f95f",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "01 - Spring Framework.pdf"
-              }
-            }
-          },
-          {
-            "id": "8ce58fbc934f840c",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "02 - Spring Boot and Annotations.pdf"
-              }
-            }
-          },
-          {
-            "id": "662dd39b20a44121",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "03 - RESTful APIs and API Testing.pdf"
-              }
-            }
-          },
-          {
-            "id": "042d68fd14a72ba4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SpringBoot_Notes/05 - Spring Security.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6bb9edf4849bb1bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SpringBoot_Notes/06 - Implementing JWT Tokens.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "883ee55e356463b1",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "05 - Spring Security.pdf"
-              }
-            }
-          },
-          {
-            "id": "872f9eb599a0f762",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "04 - JPA and Database Interaction and JPQL.pdf"
               }
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -190,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SpringBoot_Notes/06 - Implementing JWT Tokens.md",
+                "file": "SpringBoot_Notes/07 - Introduction to Microservices.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SpringBoot_Notes/06 - Implementing JWT Tokens.md",
+                "file": "SpringBoot_Notes/07 - Introduction to Microservices.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,11 +133,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SpringBoot_Notes/06 - Implementing JWT Tokens.md"
+                "file": "SpringBoot_Notes/07 - Introduction to Microservices.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -254,27 +158,35 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "6bb9edf4849bb1bb",
+  "active": "9a584550867479a1",
   "lastOpenFiles": [
+    "07 - Introduction to Microservices.pdf",
+    "Untitled.md",
+    "SpringBoot_Notes/07 - Introduction to Microservices.md",
     "06 - Implementing JWT Tokens.pdf",
-    "04 - JPA and Database Interaction and JPQL.pdf",
     "05 - Spring Security.pdf",
     "SpringBoot_Notes/06 - Implementing JWT Tokens.md",
+    "04 - JPA and Database Interaction and JPQL.pdf",
+    "01 - Spring Framework.pdf",
     "SpringBoot_Notes/05 - Spring Security.md",
+    "03 - RESTful APIs and API Testing.pdf",
+    "02 - Spring Boot and Annotations.pdf",
+    "attachments/Pasted image 20240806170614.png",
+    "attachments/Pasted image 20240806170606.png",
+    "attachments/Pasted image 20240806170454.png",
+    "attachments/Pasted image 20240806170422.png",
+    "attachments/Pasted image 20240806170342.png",
+    "attachments",
     "SpringBoot_Notes/attachments/image.png",
     "SpringBoot_Notes/attachments/Pasted image 20240712143229.png",
     "SpringBoot_Notes/04 - JPA and Database Interaction and JPQL.md",
-    "03 - RESTful APIs and API Testing.pdf",
-    "02 - Spring Boot and Annotations.pdf",
     "SpringBoot_Notes/01 - Spring Framework.md",
     "SpringBoot_Notes/02 - Spring Boot and Annotations.md",
-    "01 - Spring Framework.pdf",
     "SpringBoot_Notes/attachments/Pasted image 20240712164716.png",
     "SpringBoot_Notes/03 - RESTful APIs and API Testing.md",
     "SpringBoot_Notes/attachments/Pasted image 20240802092901.png",
     "SpringBoot_Notes/attachments",
     "SpringBoot_Notes/Pasted image 20240802092825.png",
-    "Pasted image 20240802092759.png",
     "Welcome.md",
     "SpringBoot_Notes"
   ]
