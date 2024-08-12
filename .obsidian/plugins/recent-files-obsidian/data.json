@@ -9,6 +9,17 @@
       "path": "02 - Spring Boot and Annotations.pdf"
     },
     {
+<<<<<<< Updated upstream
+=======
+      "basename": "09 - Service Discovery and Communication (Part 2)",
+      "path": "09 - Service Discovery and Communication (Part 2).pdf"
+    },
+    {
+      "basename": "09 - Service Discovery and Communication (Part 2)",
+      "path": "SpringBoot_Notes/09 - Service Discovery and Communication (Part 2).md"
+    },
+    {
+>>>>>>> Stashed changes
       "basename": "08 - Service Discovery and Communication (Part 1)",
       "path": "SpringBoot_Notes/08 - Service Discovery and Communication (Part 1).md"
     },
