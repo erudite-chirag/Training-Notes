@@ -1,52 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "08 - Service Discovery and Communication (Part 1)",
-      "path": "SpringBoot_Notes/08 - Service Discovery and Communication (Part 1).md"
+      "basename": "10 - Relational Mapping",
+      "path": "10 - Relational Mapping.pdf"
     },
     {
-      "basename": "07 - Introduction to Microservices",
-      "path": "SpringBoot_Notes/07 - Introduction to Microservices.md"
-    },
-    {
-      "basename": "06 - Implementing JWT Tokens",
-      "path": "06 - Implementing JWT Tokens.pdf"
-    },
-    {
-      "basename": "05 - Spring Security",
-      "path": "05 - Spring Security.pdf"
-    },
-    {
-      "basename": "06 - Implementing JWT Tokens",
-      "path": "SpringBoot_Notes/06 - Implementing JWT Tokens.md"
-    },
-    {
-      "basename": "04 - JPA and Database Interaction and JPQL",
-      "path": "04 - JPA and Database Interaction and JPQL.pdf"
-    },
-    {
-      "basename": "01 - Spring Framework",
-      "path": "01 - Spring Framework.pdf"
-    },
-    {
-      "basename": "05 - Spring Security",
-      "path": "SpringBoot_Notes/05 - Spring Security.md"
-    },
-    {
-      "basename": "03 - RESTful APIs and API Testing",
-      "path": "03 - RESTful APIs and API Testing.pdf"
-    },
-    {
-      "basename": "02 - Spring Boot and Annotations",
-      "path": "02 - Spring Boot and Annotations.pdf"
-    },
-    {
-      "basename": "01 - Spring Framework",
-      "path": "SpringBoot_Notes/01 - Spring Framework.md"
-    },
-    {
-      "basename": "02 - Spring Boot and Annotations",
-      "path": "SpringBoot_Notes/02 - Spring Boot and Annotations.md"
+      "basename": "10 - Relational Mapping",
+      "path": "SpringBoot_Notes/10 - Relational Mapping.md"
     }
   ],
   "omittedPaths": []

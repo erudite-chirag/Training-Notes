@@ -1,33 +1,31 @@
 {
   "main": {
-    "id": "0d580bf21e703575",
+    "id": "dc5ccc1873ec34b3",
     "type": "split",
     "children": [
       {
-        "id": "2893dce1302505bb",
+        "id": "860e9dd9fa22cedb",
         "type": "tabs",
         "children": [
           {
-            "id": "9a584550867479a1",
+            "id": "58e5abbb2ec1eb5a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SpringBoot_Notes/07 - Introduction to Microservices.md",
+                "file": "SpringBoot_Notes/10 - Relational Mapping.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7bec2d53a431a1e1",
+            "id": "640c8caa32af3a8b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "SpringBoot_Notes/08 - Service Discovery and Communication (Part 1).md",
-                "mode": "source",
-                "source": false
+                "file": "10 - Relational Mapping.pdf"
               }
             }
           }
@@ -38,15 +36,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "96c266bd669faeff",
+    "id": "ab6913fd618bde3f",
     "type": "split",
     "children": [
       {
-        "id": "b0cd49ea68e2a35a",
+        "id": "b05f71d33aaec51b",
         "type": "tabs",
         "children": [
           {
-            "id": "cf6936df424d3a6f",
+            "id": "ba479738bc61beff",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -56,7 +54,7 @@
             }
           },
           {
-            "id": "2dd081e3194724cc",
+            "id": "e22d6af64b4cf4b8",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -71,7 +69,7 @@
             }
           },
           {
-            "id": "d2f42444e512ae26",
+            "id": "311b6efa35223cc6",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -79,7 +77,7 @@
             }
           },
           {
-            "id": "954015c9f130c840",
+            "id": "5dd5f2830a3aebb7",
             "type": "leaf",
             "state": {
               "type": "recent-files",
@@ -93,20 +91,20 @@
     "width": 300
   },
   "right": {
-    "id": "afaa9e1f5cbcb6a8",
+    "id": "bd93116a0ff2385c",
     "type": "split",
     "children": [
       {
-        "id": "26585e2c17e81e39",
+        "id": "c62209a41caae1dc",
         "type": "tabs",
         "children": [
           {
-            "id": "4a0746987162a3db",
+            "id": "84fabe778ea010be",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SpringBoot_Notes/08 - Service Discovery and Communication (Part 1).md",
+                "file": "10 - Relational Mapping.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,19 +116,19 @@
             }
           },
           {
-            "id": "3013df8912b8cdba",
+            "id": "f391cad8cffc65e9",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SpringBoot_Notes/08 - Service Discovery and Communication (Part 1).md",
+                "file": "10 - Relational Mapping.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "a6186d6df1792f53",
+            "id": "3b1dc38943e0ddfc",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -141,12 +139,12 @@
             }
           },
           {
-            "id": "57ef74b241d235d5",
+            "id": "394bd382ea705c5d",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "SpringBoot_Notes/08 - Service Discovery and Communication (Part 1).md"
+                "file": "10 - Relational Mapping.pdf"
               }
             }
           }
@@ -160,48 +158,20 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-advanced-slides:Show Slide Preview": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "7bec2d53a431a1e1",
+  "active": "ba479738bc61beff",
   "lastOpenFiles": [
-    "08 - Service Discovery and Communication (Part 1).pdf",
-    "SpringBoot_Notes/07 - Introduction to Microservices.md",
-    "SpringBoot_Notes/08 - Service Discovery and Communication (Part 1).md",
-    "07 - Introduction to Microservices.pdf",
-    "06 - Implementing JWT Tokens.pdf",
-    "05 - Spring Security.pdf",
-    "SpringBoot_Notes/06 - Implementing JWT Tokens.md",
-    "04 - JPA and Database Interaction and JPQL.pdf",
-    "01 - Spring Framework.pdf",
-    "SpringBoot_Notes/05 - Spring Security.md",
-    "03 - RESTful APIs and API Testing.pdf",
-    "02 - Spring Boot and Annotations.pdf",
-    "attachments/Pasted image 20240806170614.png",
-    "attachments/Pasted image 20240806170606.png",
-    "attachments/Pasted image 20240806170454.png",
-    "attachments/Pasted image 20240806170422.png",
-    "attachments/Pasted image 20240806170342.png",
-    "attachments",
-    "SpringBoot_Notes/attachments/image.png",
-    "SpringBoot_Notes/attachments/Pasted image 20240712143229.png",
-    "SpringBoot_Notes/04 - JPA and Database Interaction and JPQL.md",
-    "SpringBoot_Notes/01 - Spring Framework.md",
-    "SpringBoot_Notes/02 - Spring Boot and Annotations.md",
-    "SpringBoot_Notes/attachments/Pasted image 20240712164716.png",
-    "SpringBoot_Notes/03 - RESTful APIs and API Testing.md",
-    "SpringBoot_Notes/attachments/Pasted image 20240802092901.png",
-    "SpringBoot_Notes/attachments",
-    "SpringBoot_Notes/Pasted image 20240802092825.png",
-    "Welcome.md",
-    "SpringBoot_Notes"
+    "SpringBoot_Notes/10 - Relational Mapping.md",
+    "10 - Relational Mapping.pdf"
   ]
 }
