@@ -4,18 +4,61 @@
     "type": "split",
     "children": [
       {
-        "id": "9a9028c95ae76ffe",
+        "id": "58deef15156d9539",
         "type": "tabs",
         "children": [
           {
-            "id": "23b4b537dd8cb86d",
+            "id": "503d81d67f1f8f15",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "SpringBoot_Notes/01 - Spring Framework.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01 - Spring Framework"
+            }
+          },
+          {
+            "id": "70a33c4071440a86",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "02 - Spring Boot and Annotations.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "02 - Spring Boot and Annotations"
+            }
+          },
+          {
+            "id": "0a9057d46c11b70b",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "03 - RESTful APIs and API Testing.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "03 - RESTful APIs and API Testing"
+            }
+          },
+          {
+            "id": "efe82ada4f018581",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "04 - JPA and Database Interaction and JPQL.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "04 - JPA and Database Interaction and JPQL"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -35,7 +78,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -50,7 +95,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -58,7 +105,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           },
           {
@@ -66,7 +115,9 @@
             "type": "leaf",
             "state": {
               "type": "recent-files",
-              "state": {}
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
             }
           }
         ]
@@ -89,6 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "04 - JPA and Database Interaction and JPQL.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +148,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 04 - JPA and Database Interaction and JPQL"
             }
           },
           {
@@ -105,9 +159,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "04 - JPA and Database Interaction and JPQL.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 04 - JPA and Database Interaction and JPQL"
             }
           },
           {
@@ -118,7 +175,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -126,7 +185,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "04 - JPA and Database Interaction and JPQL.pdf"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 04 - JPA and Database Interaction and JPQL"
             }
           }
         ],
@@ -150,25 +213,29 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "23b4b537dd8cb86d",
+  "active": "efe82ada4f018581",
   "lastOpenFiles": [
-    "SpringBoot_Notes/10 - Relational Mapping.md",
-    "10 - Relational Mapping.pdf",
-    "SpringBoot_Notes/09 - Service Discovery and Communication (Part 2).md",
-    "09 - Service Discovery and Communication (Part 2).pdf",
-    "10 - Relational Mapping.md",
-    "01 - Spring Framework.pdf",
+    "03 - RESTful APIs and API Testing.pdf",
     "02 - Spring Boot and Annotations.pdf",
+    "01 - Spring Framework.pdf",
+    "SpringBoot_Notes/01 - Spring Framework.md",
+    "Excalidraw/Drawing 2025-01-16 10.59.00.excalidraw.md",
+    "Excalidraw",
+    "SpringBoot_Notes/02 - Spring Boot and Annotations.md",
+    "04 - JPA and Database Interaction and JPQL.pdf",
+    "SpringBoot_Notes/03 - RESTful APIs and API Testing.md",
+    "09 - Service Discovery and Communication (Part 2).pdf",
+    "10 - Relational Mapping.pdf",
+    "08 - Service Discovery and Communication (Part 1).pdf",
     "SpringBoot_Notes/08 - Service Discovery and Communication (Part 1).md",
     "SpringBoot_Notes/07 - Introduction to Microservices.md",
     "07 - Introduction to Microservices.pdf",
-    "08 - Service Discovery and Communication (Part 1).pdf",
-    "06 - Implementing JWT Tokens.pdf",
     "05 - Spring Security.pdf",
+    "SpringBoot_Notes/10 - Relational Mapping.md",
+    "SpringBoot_Notes/09 - Service Discovery and Communication (Part 2).md",
+    "10 - Relational Mapping.md",
     "SpringBoot_Notes/06 - Implementing JWT Tokens.md",
-    "04 - JPA and Database Interaction and JPQL.pdf",
     "SpringBoot_Notes/05 - Spring Security.md",
-    "03 - RESTful APIs and API Testing.pdf",
     "attachments/Pasted image 20240806170614.png",
     "attachments/Pasted image 20240806170606.png",
     "attachments/Pasted image 20240806170454.png",
@@ -177,10 +244,7 @@
     "SpringBoot_Notes/attachments/image.png",
     "SpringBoot_Notes/attachments/Pasted image 20240712143229.png",
     "SpringBoot_Notes/04 - JPA and Database Interaction and JPQL.md",
-    "SpringBoot_Notes/01 - Spring Framework.md",
-    "SpringBoot_Notes/02 - Spring Boot and Annotations.md",
     "SpringBoot_Notes/attachments/Pasted image 20240712164716.png",
-    "SpringBoot_Notes/03 - RESTful APIs and API Testing.md",
     "SpringBoot_Notes/attachments/Pasted image 20240802092901.png",
     "SpringBoot_Notes/Pasted image 20240802092825.png",
     "Welcome.md"
