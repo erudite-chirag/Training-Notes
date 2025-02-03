@@ -27,10 +27,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "02 - Spring Boot and Annotations.pdf"
+                "file": "04 - JPA and Database Interaction and JPQL.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "02 - Spring Boot and Annotations"
+              "title": "04 - JPA and Database Interaction and JPQL"
             }
           },
           {
@@ -51,14 +51,14 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "04 - JPA and Database Interaction and JPQL.pdf"
+                "file": "08 - Service Discovery and Communication (Part 1).pdf"
               },
               "icon": "lucide-file-text",
-              "title": "04 - JPA and Database Interaction and JPQL"
+              "title": "08 - Service Discovery and Communication (Part 1)"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -213,20 +213,20 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "efe82ada4f018581",
+  "active": "0a9057d46c11b70b",
   "lastOpenFiles": [
-    "03 - RESTful APIs and API Testing.pdf",
+    "04 - JPA and Database Interaction and JPQL.pdf",
     "02 - Spring Boot and Annotations.pdf",
+    "08 - Service Discovery and Communication (Part 1).pdf",
+    "SpringBoot_Notes/03 - RESTful APIs and API Testing.md",
+    "03 - RESTful APIs and API Testing.pdf",
     "01 - Spring Framework.pdf",
     "SpringBoot_Notes/01 - Spring Framework.md",
     "Excalidraw/Drawing 2025-01-16 10.59.00.excalidraw.md",
     "Excalidraw",
     "SpringBoot_Notes/02 - Spring Boot and Annotations.md",
-    "04 - JPA and Database Interaction and JPQL.pdf",
-    "SpringBoot_Notes/03 - RESTful APIs and API Testing.md",
     "09 - Service Discovery and Communication (Part 2).pdf",
     "10 - Relational Mapping.pdf",
-    "08 - Service Discovery and Communication (Part 1).pdf",
     "SpringBoot_Notes/08 - Service Discovery and Communication (Part 1).md",
     "SpringBoot_Notes/07 - Introduction to Microservices.md",
     "07 - Introduction to Microservices.pdf",

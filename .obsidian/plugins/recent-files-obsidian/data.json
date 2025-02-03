@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "04 - JPA and Database Interaction and JPQL",
-      "path": "04 - JPA and Database Interaction and JPQL.pdf"
-    },
-    {
       "basename": "03 - RESTful APIs and API Testing",
       "path": "03 - RESTful APIs and API Testing.pdf"
     },
     {
+      "basename": "04 - JPA and Database Interaction and JPQL",
+      "path": "04 - JPA and Database Interaction and JPQL.pdf"
+    },
+    {
       "basename": "02 - Spring Boot and Annotations",
       "path": "02 - Spring Boot and Annotations.pdf"
+    },
+    {
+      "basename": "08 - Service Discovery and Communication (Part 1)",
+      "path": "08 - Service Discovery and Communication (Part 1).pdf"
+    },
+    {
+      "basename": "03 - RESTful APIs and API Testing",
+      "path": "SpringBoot_Notes/03 - RESTful APIs and API Testing.md"
     },
     {
       "basename": "01 - Spring Framework",
@@ -29,20 +37,12 @@
       "path": "SpringBoot_Notes/02 - Spring Boot and Annotations.md"
     },
     {
-      "basename": "03 - RESTful APIs and API Testing",
-      "path": "SpringBoot_Notes/03 - RESTful APIs and API Testing.md"
-    },
-    {
       "basename": "10 - Relational Mapping",
       "path": "10 - Relational Mapping.pdf"
     },
     {
       "basename": "09 - Service Discovery and Communication (Part 2)",
       "path": "09 - Service Discovery and Communication (Part 2).pdf"
-    },
-    {
-      "basename": "08 - Service Discovery and Communication (Part 1)",
-      "path": "08 - Service Discovery and Communication (Part 1).pdf"
     },
     {
       "basename": "08 - Service Discovery and Communication (Part 1)",
